@@ -28,3 +28,6 @@ hr {
 .box div:nth-child(5){
    background: red;
 }
+.dos div:nth-child(3), .dos div:nth-child(4), .dos div:nth-child(5){
+  float: left;
+}
