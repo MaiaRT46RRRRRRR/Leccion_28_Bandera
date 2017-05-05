@@ -1,15 +1,27 @@
 .box{
   background-color: #C3C4FC;
-
 }
-.div{
-  height: 300px;
-  width: 300px;
+.cajas{
+  height: 100px;
+  width: 100px;
 }
 h1{
   text-align: center;
   font-family: 'Montserrat', sans-serif;
 }
-hr{
+hr {
   width: 50%;
+}
+ /*.box:nth-child(3){
+   background-color: yellow;
+ }*/
+
+.box div:nth-child(3){
+   background: yellow;
+}
+.box div:nth-child(4){
+   background: blue;
+}
+.box div:nth-child(5){
+   background: red;
 }
