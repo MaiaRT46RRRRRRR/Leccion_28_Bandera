@@ -31,3 +31,6 @@ hr {
 .dos div:nth-child(3), .dos div:nth-child(4), .dos div:nth-child(5){
   float: left;
 }
+.tres div:nth-child(3), .tres div:nth-child(4), .tres div:nth-child(5){
+  float: right;
+}
