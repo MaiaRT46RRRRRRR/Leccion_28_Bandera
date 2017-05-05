@@ -1,3 +1,9 @@
+seccion{
+  display: block;
+  border: 2px solid ;#479DCC;
+  width: 350px;
+  overflow: auto;
+}
 .box{
   background-color: #C3C4FC;
 }
@@ -12,9 +18,6 @@ h1{
 hr {
   width: 50%;
 }
- /*.box:nth-child(3){
-   background-color: yellow;
- }*/
 
 .box div:nth-child(3){
    background: yellow;
